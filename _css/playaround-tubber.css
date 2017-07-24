@@ -70,7 +70,9 @@
 	background: #ED213B;
 }
 
-.media-viewer iframe {
+.media-viewer { float: left; }
+
+.media-viewer iframe, #youtube {
 	width: 780px;
 	height: 30em;
 }
