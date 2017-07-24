@@ -70,7 +70,11 @@
 	background: #ED213B;
 }
 
-.media-viewer iframe, #youtube {
+#youtube, .media-viewer iframe {
 	width: 780px;
+}
+
+.media-viewer iframe
+  {
 	height: 30em;
 }
